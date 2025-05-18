@@ -1,3 +1,5 @@
+package org.grupo2.spring_rmi;
+
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
