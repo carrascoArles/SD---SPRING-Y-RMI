@@ -1,3 +1,5 @@
+package org.grupo2.spring_rmi;
+
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
